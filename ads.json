@@ -1,1 +1,16 @@
-{}
+{
+    "TestRun1": {
+        "projectName": "TestRun1",
+        "description": "Just a test run",
+        "type": "community",
+        "author": "msdee23",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/msdee23/agama_lab",
+        "githubUri": "https://github.com/msdee23/agama_lab",
+        "license": "MIT",
+        "lastUpdated": "1687973586688",
+        "tags": [
+            "authentication"
+        ]
+    }
+}
